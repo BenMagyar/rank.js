@@ -1,12 +1,19 @@
 {
-  "author": "Ben Magyar",
   "name": "rank.js",
-  "description": "Supplies multiple ranking strategies",
+  "description": "Ranking strategies for arrays",
   "version": "0.0.1",
+  "author": {
+    "name": "Ben Magyar",
+    "email": "bmagyar@american.edu"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/BenMagyar/rank.js"
   },
+  "bugs": {
+    "url": "https://github.com/BenMagyar/rank.js/issues"
+  },
+  "readmeFilename": "README.md",
   "main": "./lib/ranker",
   "keywords": [
     "rank",
