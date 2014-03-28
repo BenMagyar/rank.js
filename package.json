@@ -14,7 +14,7 @@
     "url": "https://github.com/BenMagyar/rank.js/issues"
   },
   "readmeFilename": "README.md",
-  "main": "./lib/ranker",
+  "main": "./lib/rank.js",
   "keywords": [
     "rank",
     "ranker",
