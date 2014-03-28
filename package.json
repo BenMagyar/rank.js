@@ -1,0 +1,31 @@
+{
+  "author": "Ben Magyar",
+  "name": "rank.js",
+  "description": "Supplies multiple ranking strategies",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BenMagyar/rank.js"
+  },
+  "main": "./lib/ranker",
+  "keywords": [
+    "rank",
+    "ranker",
+    "ranking",
+    "fractional"
+  ],
+  "bin": {
+    "rank.js": "./bin/rank.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "expect.js": "*",
+    "mocha": "*"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "engines": {
+    "node": "*"
+  }
+}
