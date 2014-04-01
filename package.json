@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "author": {
     "name": "Ben Magyar",
-    "email": "bmagyar@american.edu"
+    "email": "magyar@american.edu"
   },
   "repository": {
     "type": "git",
@@ -21,9 +21,6 @@
     "ranking",
     "fractional"
   ],
-  "bin": {
-    "rank.js": "./bin/rank.js"
-  },
   "dependencies": {},
   "devDependencies": {
     "expect.js": "*",
