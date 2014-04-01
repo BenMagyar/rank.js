@@ -1,7 +1,7 @@
 {
   "name": "rank.js",
   "description": "Ranking strategies for arrays",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": {
     "name": "Ben Magyar",
     "email": "magyar@american.edu"
